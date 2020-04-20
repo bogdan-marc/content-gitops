@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: nginx:alpine
+        image: nginx:alpine-v1.1
